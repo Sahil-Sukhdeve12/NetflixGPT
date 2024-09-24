@@ -15,3 +15,5 @@
 - NetflixGPT
     -search bar
     -movie suggestions
+
+# try to imagine how it will look (visualize)
